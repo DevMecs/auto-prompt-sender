@@ -1,0 +1,3 @@
+Escreva uma introdução cativante sobre como começar a programar em Python.
+Quais são os 3 erros mais comuns de quem está aprendendo a automatizar tarefas?
+Monte um checklist rápido para organizar um repositório no GitHub.
